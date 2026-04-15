@@ -1,0 +1,18 @@
+# Log files
+*.log
+
+# Environment files
+.env
+
+# Python cache
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
